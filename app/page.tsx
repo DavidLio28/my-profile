@@ -59,7 +59,7 @@ export default function Home() {
       </header>
       <div className=" overflow-hidden pages">
         {/* Home */}
-        <div className="page page--current relative ">
+        <div className="page page--current relative">
           <div className="bg-[#72b626] fixed w-full h-[200%] -rotate-[15deg] -top-1/2 -left-[83%]"></div>
           <div className="flex items-center h-screen w-full down-lg:mx-auto down-lg:justify-center xs:text-left down-lg:text-center">
             {/* Desktop Image */}
